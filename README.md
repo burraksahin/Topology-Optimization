@@ -51,3 +51,7 @@ The project successfully demonstrates that topology optimization is not a replac
 ## 👥 Authors
 * Burak ŞAHİN
 * Berrin Nur VURAL
+
+
+Here is our final report:
+[ME463_Project final.pdf](https://github.com/user-attachments/files/28390889/ME463_Project.final.pdf)
